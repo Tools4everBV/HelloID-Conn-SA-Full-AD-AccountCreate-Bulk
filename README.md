@@ -12,6 +12,7 @@ This HelloID Service Automation Delegated Form provides functionality for bulk A
   * [Getting started](#getting-started)
 * [Post-setup configuration](#post-setup-configuration)
 * [Manual resources](#manual-resources)
+* [Forum Thread](#forum-thread)
 
 
 ## All-in-one PowerShell setup script
@@ -50,3 +51,6 @@ This delegated form task will bluk create new AD user accounts based on selected
 
 # HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
+
+## Forum Thread
+The Forum thread for any questions or remarks regarding this connector can be found at: https://forum.helloid.com/forum/helloid-connectors/service-automation/327-helloid-sa-active-directory-bulk-ad-account-create
