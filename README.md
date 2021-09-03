@@ -1,7 +1,7 @@
 <!-- Description -->
 ## Description
 This HelloID Service Automation Delegated Form provides functionality for bulk AD user account creation using a CSV file. The following options are available:
- 1. Manual provide a CSV file containing the account details (a sample file is provided). _Please note that you can not upload this file using HelloID_
+ 1. Manual provide a CSV file containing the account details (a sample file is provided; [click](https://github.com/Tools4everBV/HelloID-Conn-SA-Full-AD-AccountCreate-Bulk/blob/main/Manual%20resources/bulk_create_ad_account.csv)). _Please note that you can not upload this file using HelloID_
  2. Select one, multiple or all AD accounts to be created in bulk
 
  
