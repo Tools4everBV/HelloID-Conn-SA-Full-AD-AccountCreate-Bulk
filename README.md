@@ -33,7 +33,7 @@ After the all-in-one PowerShell script has run and created all the required reso
 </table>
 
  2. Update the Dynamic Form markdown element with the right reference to the CSV file. This is for information only, but nice to have the correct file location listed.
- 3. Update the details of the CSV file according to your needs. If you want different AD attributes you need to update the CSV file, but also the execution Delegated Form Task.
+ 3. Update the details of the CSV file according to your needs. If you want different AD attributes you need to update the CSV file, but also the executing Delegated Form Task.
 
 
 ## Manual resources
