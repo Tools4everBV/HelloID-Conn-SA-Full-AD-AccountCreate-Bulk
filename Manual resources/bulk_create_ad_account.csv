@@ -1,0 +1,11 @@
+path;name;displayname;initials;givenname;lastname;samaccountname;userprincipalname;email;Enabled;description;company;department;title
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user01;Bulk User01;B;Bulk;User01;bulkuser01;bulkuser01@veeken.local;bulkuser01@veeken.local;1;Bulk created;Demo Company;ICT;Engineer
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user02;Bulk User02;B;Bulk;User02;bulkuser02;bulkuser02@veeken.local;bulkuser02@veeken.local;1;Bulk created;Demo Company;ICT;Engineer
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user03;Bulk User03;B;Bulk;User03;bulkuser03;bulkuser03@veeken.local;bulkuser03@veeken.local;1;Bulk created;Demo Company;HR;Consultant
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user04;Bulk User04;B;Bulk;User04;bulkuser04;bulkuser04@veeken.local;bulkuser04@veeken.local;1;Bulk created;Demo Company;HR;Specialist
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user05;Bulk User05;B;Bulk;User05;bulkuser05;bulkuser05@veeken.local;bulkuser05@veeken.local;1;Bulk created;Demo Company;HR;Consultant
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user06;Bulk User06;B;Bulk;User06;bulkuser06;bulkuser06@veeken.local;bulkuser06@veeken.local;0;Bulk created;Demo Company;Development;Tester
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user07;Bulk User07;B;Bulk;User07;bulkuser07;bulkuser07@veeken.local;bulkuser07@veeken.local;0;Bulk created;Demo Company;Development;Tester
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user08;Bulk User08;B;Bulk;User08;bulkuser08;bulkuser08@veeken.local;bulkuser08@veeken.local;0;Bulk created;Demo Company;Development;Engineer
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user09;Bulk User09;B;Bulk;User09;bulkuser09;bulkuser09@veeken.local;bulkuser09@veeken.local;0;Bulk created;Demo Company;Consultancy;Consultant
+OU=Bulk Users,OU=HelloID Training,DC=veeken,DC=local;user10;Bulk User10;B;Bulk;User10;bulkuser10;bulkuser10@veeken.local;bulkuser10@veeken.local;0;Bulk created;Demo Company;Consultancy;Consultant
