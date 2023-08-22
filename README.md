@@ -7,6 +7,7 @@ This HelloID Service Automation Delegated Form provides functionality for bulk A
 ## Versioning
 | Version | Description | Date |
 | - | - | - |
+| 2.0.0   | Migrate old tasks to new tasks (that use the SA agent) for Delegated Forms | 2022/08/22  |
 | 1.0.1   | Added version number and updated all-in-one script | 2021/11/03  |
 | 1.0.0   | Initial release | 2021/09/03  |
  
