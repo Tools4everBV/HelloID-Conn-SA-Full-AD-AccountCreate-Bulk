@@ -49,6 +49,16 @@ Try {
                                 #send result back  
                                 Write-Information -Tags "Audit" -MessageData $log
                             } catch {
+                                $Log = @{
+                                    Action            = "CreateAccount" # optional. ENUM (undefined = default) 
+                                    System            = "ActiveDirectory" # optional (free format text) 
+                                    Message           = "Failed to create account with username $upn" # required (free format text) 
+                                    IsError           = $true # optional. Elastic reporting purposes only. (default = $false. $true = Executed action returned an error) 
+                                    TargetDisplayName = $($b.displayName) # optional (free format text) 
+                                }
+                                #send result back  
+                                Write-Information -Tags "Audit" -MessageData $log
+                                
                                 Write-Error -Message "Error creating AD user [$upn]. Error: $($_.Exception.Message)" 
                             }
                         }
