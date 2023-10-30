@@ -1,4 +1,0 @@
-{
-    "name":  "accounts",
-    "value":  "{{form.createBulk.leftToRight.toJsonString}}"
-}
